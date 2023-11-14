@@ -1,0 +1,26 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+h1 {
+    color: #0066cc;
+    font-size: 24px;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.especial {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+li.especial {
+    list-style-type: square;
+}
